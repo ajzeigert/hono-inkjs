@@ -1,0 +1,1 @@
+{"version":3,"file":"NullException.js","sourceRoot":"","sources":["../src/engine/NullException.ts"],"names":[],"mappings":";;;AAAA;;;;;;;;;GASG;AACH,MAAa,aAAc,SAAQ,KAAK;CAAG;AAA3C,sCAA2C;AAE3C;;;;GAIG;AACH,SAAgB,kBAAkB,CAAC,IAAY;IAC7C,MAAM,IAAI,aAAa,CAAC,GAAG,IAAI,uBAAuB,CAAC,CAAC;AAC1D,CAAC;AAFD,gDAEC"}

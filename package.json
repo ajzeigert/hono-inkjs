@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.js"
+  },
+  "dependencies": {
+    "hono": "^3.10.1",
+    "inkjs": "^2.2.2"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.7"
+  }
+}

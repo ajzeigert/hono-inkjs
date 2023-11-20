@@ -1,0 +1,1 @@
+{"version":3,"file":"Glue.js","sourceRoot":"","sources":["../../../src/compiler/Parser/ParsedHierarchy/Glue.ts"],"names":[],"mappings":";;;AACA,iCAA8B;AAE9B,MAAa,IAAK,SAAQ,WAAiB;IACzC,YAAY,IAAiB;QAC3B,KAAK,CAAC,IAAI,CAAC,CAAC;IACd,CAAC;IAED,IAAI,QAAQ;QACV,OAAO,MAAM,CAAC;IAChB,CAAC;CACF;AARD,oBAQC"}

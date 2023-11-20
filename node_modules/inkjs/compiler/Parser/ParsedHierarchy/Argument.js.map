@@ -1,0 +1,1 @@
+{"version":3,"file":"Argument.js","sourceRoot":"","sources":["../../../src/compiler/Parser/ParsedHierarchy/Argument.ts"],"names":[],"mappings":";;;AAEA,MAAa,QAAQ;IACnB,YACS,aAAgC,IAAI,EACpC,gBAAgC,IAAI,EACpC,iBAAiC,IAAI;QAFrC,eAAU,GAAV,UAAU,CAA0B;QACpC,kBAAa,GAAb,aAAa,CAAuB;QACpC,mBAAc,GAAd,cAAc,CAAuB;IAC3C,CAAC;IAEJ,IAAI,QAAQ;QACV,OAAO,UAAU,CAAC;IACpB,CAAC;CACF;AAVD,4BAUC"}
